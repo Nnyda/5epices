@@ -1,0 +1,26 @@
+.bd {
+
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 50px;
+}
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.error-message {
+    color: red;
+    margin-bottom: 10px;
+}
